@@ -11,7 +11,7 @@ The World Weather Analysis provides a good scenario not only to pratice function
 3.Convert the list of dictionaries into a Pandas DataFrame and export the data into a CSV file, named WeatherPy_Database.csv
 
 ## Vacation Search
-1. Use input statements' to create Max and Min temperature criteria and use .loc function to filter out cities fufill the temperature criteria in Weather Database created previously. Drop null columns and convert the selected data into a new DataFrame, clean_df.
+1.Use input statements' to create Max and Min temperature criteria and use .loc function to filter out cities fufill the temperature criteria in Weather Database created previously. Drop null columns and convert the selected data into a new DataFrame, clean_df.
 
 2.Copy "City", "Country", "Max Temp", "Current Description", "Lat", "Lng" from clean_df and create a new DataFrame, name hotel_df. Additioanlly, add a new column, Hotel Name.
 
